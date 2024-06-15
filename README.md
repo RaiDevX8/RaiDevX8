@@ -55,7 +55,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RaiDevX8/RaiDevX8/output/snake.svg" alt="Snake animation" />
 
 ###
 
