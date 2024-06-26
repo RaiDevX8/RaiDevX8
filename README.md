@@ -16,6 +16,7 @@
 
 ###
 <h1>Tech Stack</h1>
+<br>
 <div align="left">
   <h3>Front-End Technologies</h3>
   <table>
