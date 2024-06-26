@@ -13,8 +13,7 @@
 <br clear="both">
 
 <img align="right" height="150" src="https://media.giphy.com/media/suqg0jRPpDMze/giphy.gif?cid=790b7611t7ans4i8rnd3h0vnusuhys8iqsxqjg8kt4qvoa5q&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-<br>
-###
+<br clear="both">
 <h1>Tech Stack</h1>
 <br>
 <div align="left">
