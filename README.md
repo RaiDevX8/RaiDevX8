@@ -12,10 +12,15 @@
 
 <br clear="both">
 
-<img align="center" height="200" src="https://media.giphy.com/media/suqg0jRPpDMze/giphy.gif?cid=790b7611t7ans4i8rnd3h0vnusuhys8iqsxqjg8kt4qvoa5q&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<div align="center">
+  <img align="center" height="200" src="https://media.giphy.com/media/suqg0jRPpDMze/giphy.gif?cid=790b7611t7ans4i8rnd3h0vnusuhys8iqsxqjg8kt4qvoa5q&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</div>
+
 <br clear="both">
+
 <h1>Tech Stack</h1>
 <br>
+
 <div align="left">
   <h3>Front-End Technologies</h3>
   <table>
