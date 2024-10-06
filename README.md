@@ -13,7 +13,7 @@
 </div>
 
 ###
-[![An image of @raidevx8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raidevx8)](https://holopin.io/@raidevx8
+![An image of @raidevx8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raidevx8)
 <h1 align="center">Tech Stack</h1>
 
 <div align="center">
