@@ -1,79 +1,117 @@
 <h2 align="center">Hi 👋! Charan here!!</h2>
-<h6>Developer From India</h6>
-
+<h6 align="center">Developer From India</h6>
 <div align="center">
-  <img align="center" height="200" src="https://media.giphy.com/media/suqg0jRPpDMze/giphy.gif?cid=790b7611t7ans4i8rnd3h0vnusuhys8iqsxqjg8kt4qvoa5q&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+  <img height="200" src="https://media.giphy.com/media/suqg0jRPpDMze/giphy.gif?cid=790b7611t7ans4i8rnd3h0vnusuhys8iqsxqjg8kt4qvoa5q&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
 
-###
+---
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaiDevX8&theme=dark&hide_border=false" height="150" alt="streak stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiDevX8&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph" />
 </div>
 
-###
-![An image of @raidevx8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raidevx8)
+<br>
+<div><h2 align="center">🎖️ Achievements and Open Source Contributions 🚀
+</div>
+<details>
+  <summary><strong>Github Trophies</strong></summary>
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=RaiDevX8&theme=discord" alt="RaiDevX8" />
+    </a>
+  </p>
+</details>
+
+<details>	
+  <summary><b>Open Source Contributions 🚀</b></summary><br>
+  <div align="center">
+    <table>
+      <thead>
+        <tr>
+          <th><a href="https://gssoc.girlscript.tech"><img src="https://github.com/user-attachments/assets/4382cf2c-7cfe-4aaf-9a01-5c26b163fef5" alt="GSSOC-2024" width="100px" height="100px"></a></th>
+          <th><a href="https://hacktoberfest.com/"><img src="https://github.com/user-attachments/assets/894ae854-30f2-4a77-9c09-f85734c02528" alt="hacktoberfest-2024" width="150px" height="100px"></a></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><b>GSSOC'24</b></td>
+          <td><b>Hacktoberfest'24</b></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
+  <details>	
+    <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+    <table align="center" style="margin: 0 auto; text-align: center;">
+      <tr>
+        <td style="padding: 10px;"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" height="100" alt="Postman API Badge" /><br>Postman API Badge</td>
+        <td style="padding: 10px;"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100" height="100" alt="Explorer Badge" /><br>Explorer Badge</td>
+        <td style="padding: 10px;"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100" height="100" alt="Adventurer Badge" /><br>Adventurer Badge</td>
+        <td style="padding: 10px;"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100" height="100" alt="Trailblazer Badge" /><br>Trailblazer Badge</td>
+        <td style="padding: 10px;"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100" height="100" alt="Summit Seeker Badge" /><br>Summit Seeker Badge</td>
+        <td style="padding: 10px;"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100" height="100" alt="Champion Badge" /><br>Champion Badge</td>
+        <td style="padding: 10px;"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100" height="100" alt="Innovator Badge" /><br>Innovator Badge</td>
+      </tr>
+    </table>
+  </details>	
+  
+  <details>	
+    <summary><b>Hacktoberfest(24) Badges 🪶</b></summary><br>
+    <div align="center">
+      <img src="https://holopin.me/raidevx8" alt="Holopin badges" />
+    </div>
+  </details>
+</details>
+
+---
+
 <h1 align="center">Tech Stack</h1>
 
 <div align="center">
-  <h3>Front-End Technologies</h3>
-  <table>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /><br>JavaScript</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /><br>TypeScript</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /><br>React</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" /><br>Tailwind CSS</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" /><br>Sass</td>
-    </tr>
-  </table>
+  <h3>MERN Stack</h3>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="MERN stack icons" />
+  <br />
+  <h3>Android Development</h3>
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio icon" width="50" height="50" />
 </div>
 
+---
+
+<h2 align="center">Languages and Tools</h2>
+</h2>
+
 <div align="center">
-  <h3>Back-End Technologies</h3>
-  <table>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /><br>Node.js</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" /><br>Express</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" /><br>PHP</td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,php" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,bootstrap,tailwind,vite,figma,jquery,scss" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,vscode,windows,linux,apache,docker" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=shadcn,antdesign" />
 </div>
 
+---
+
+<h2 align="center">Currently Learning:</h2>
 <div align="center">
-  <h3>Databases</h3>
-  <table>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" /><br>MongoDB</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /><br>MySQL</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" /><br>Redis</td>
-       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" /><br>Firebase</td>
-     </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=nextjs" />
 </div>
 
-<div align="center">
-  <h3>Tools and Platforms</h3>
-  <table>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo" /><br>GitLab</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" /><br>GitHub</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" /><br>Linux</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" /><br>Figma</td>
-    </tr>
-  </table>
-</div>
+---
 
-###
-
+<h2 align="center">Connect with Me</h2>
 <div align="center">
-  <h3>Connect with me</h3>
   <a href="https://www.linkedin.com/in/charan-rai2024/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://discordapp.com/users/charan_rai" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
+ 
 </div>
 
-###
+---
+
+<h3 align="center">Thanks for visiting my profile! 😊</h3>
