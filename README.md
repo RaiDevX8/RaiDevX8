@@ -52,7 +52,6 @@
         <td style="padding: 10px;"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100" height="100" alt="Trailblazer Badge" /><br>Trailblazer Badge</td>
         <td style="padding: 10px;"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100" height="100" alt="Summit Seeker Badge" /><br>Summit Seeker Badge</td>
         <td style="padding: 10px;"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100" height="100" alt="Champion Badge" /><br>Champion Badge</td>
-        <td style="padding: 10px;"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100" height="100" alt="Innovator Badge" /><br>Innovator Badge</td>
       </tr>
     </table>
   </details>	
